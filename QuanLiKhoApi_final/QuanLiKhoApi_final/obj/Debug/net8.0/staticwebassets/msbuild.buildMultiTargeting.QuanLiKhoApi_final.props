@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\QuanLiKhoApi_final.props" />
+</Project>

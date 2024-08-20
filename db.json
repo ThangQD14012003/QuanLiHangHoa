@@ -1,0 +1,189 @@
+{
+  "products": [
+    {
+      "id": "acb7",
+      "name": "a",
+      "price": "122",
+      "description": "a",
+      "img": {}
+    },
+    {
+      "id": "0c94",
+      "name": "z",
+      "price": "z",
+      "description": "z",
+      "img": {}
+    },
+    {
+      "id": "f15e",
+      "name": "q",
+      "price": "q",
+      "description": "q",
+      "img": {}
+    },
+    {
+      "id": "5f4a",
+      "name": "1",
+      "price": "1",
+      "description": "a",
+      "img": {}
+    },
+    {
+      "id": "ac0a",
+      "name": "s",
+      "price": "s",
+      "description": "s"
+    },
+    {
+      "id": "4688",
+      "name": "a",
+      "price": "4",
+      "description": "a"
+    }
+  ],
+  "users": [
+    {
+      "id": "cdd6",
+      "name": "qưdqwd",
+      "email": "qưdqd edit",
+      "sdt": "qưdqdwqwd"
+    },
+    {
+      "id": "0446",
+      "name": "a",
+      "email": "a edit",
+      "sdt": "a"
+    },
+    {
+      "id": "b13f",
+      "name": "b",
+      "email": "b edit",
+      "sdt": "b"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1a10",
+      "productid": "4226",
+      "customerid": "0446",
+      "address": "hn",
+      "customerphone": "02535821213 new",
+      "totalprice": "12"
+    }
+   
+  ],
+  "account": [
+    {
+      "name": "thang",
+      "email": "thang14012003",
+      "password": "123456",
+      "passwordconfirm": "123456",
+      "id": "980b"
+    },
+    {
+      "name": "thang1",
+      "email": "thang140120013",
+      "password": "1231456",
+      "passwordconfirm": "1213456",
+      "id": "b708"
+    },
+    {
+      "id": "e2d3",
+      "name": "a",
+      "email": "a",
+      "password": "a",
+      "passwordcomfirm": "a"
+    },
+    {
+      "id": "f19d",
+      "name": "",
+      "email": "",
+      "password": "",
+      "passwordcomfirm": ""
+    },
+    {
+      "id": "e7a8",
+      "name": "b",
+      "email": "b",
+      "password": "b",
+      "passwordcomfirm": "b"
+    },
+    {
+      "id": "6e66",
+      "name": "",
+      "email": "",
+      "password": "",
+      "passwordcomfirm": ""
+    },
+    {
+      "id": "e8d3",
+      "name": "",
+      "email": "",
+      "password": "",
+      "passwordcomfirm": ""
+    },
+    {
+      "id": "fe0a",
+      "name": "",
+      "email": "",
+      "password": "",
+      "passwordcomfirm": ""
+    },
+    {
+      "id": "c506",
+      "name": "s",
+      "email": "d",
+      "password": "a",
+      "passwordcomfirm": "a"
+    },
+    {
+      "id": "f4a7",
+      "name": "",
+      "email": "",
+      "password": "",
+      "passwordcomfirm": ""
+    },
+    {
+      "id": "0dd7",
+      "name": "",
+      "email": "",
+      "password": "",
+      "passwordcomfirm": ""
+    },
+    {
+      "id": "2f74",
+      "name": "",
+      "email": "",
+      "password": "",
+      "passwordcomfirm": ""
+    },
+    {
+      "id": "1056",
+      "name": "e",
+      "email": "d",
+      "password": "a",
+      "passwordcomfirm": "a"
+    },
+    {
+      "id": "76bc",
+      "name": "a",
+      "email": "a",
+      "password": "a",
+      "passwordcomfirm": "a"
+    },
+    {
+      "id": "fd6c",
+      "name": "s",
+      "email": "s",
+      "password": "s",
+      "passwordcomfirm": "s"
+    },
+    {
+      "id": "d60f",
+      "name": "q",
+      "email": "q",
+      "password": "q",
+      "passwordcomfirm": "q"
+    }
+  ]
+}

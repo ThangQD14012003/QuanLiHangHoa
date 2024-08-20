@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\wwwroot\\Images\\45f2d41d-0b9d-4803-b11a-c3bfe2aecd77.jpg",
+      "PackagePath": "staticwebassets\\Images\\45f2d41d-0b9d-4803-b11a-c3bfe2aecd77.jpg"
+    },
+    {
+      "Id": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\wwwroot\\Images\\Screenshot 2024-05-21 183910.png",
+      "PackagePath": "staticwebassets\\Images\\Screenshot 2024-05-21 183910.png"
+    },
+    {
+      "Id": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\wwwroot\\Images\\a601be53-6c62-4916-adc6-a6627c49a482.jpg",
+      "PackagePath": "staticwebassets\\Images\\a601be53-6c62-4916-adc6-a6627c49a482.jpg"
+    },
+    {
+      "Id": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\wwwroot\\Images\\anhgoc dang ki.jpg",
+      "PackagePath": "staticwebassets\\Images\\anhgoc dang ki.jpg"
+    },
+    {
+      "Id": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\wwwroot\\Images\\ao1.jpg",
+      "PackagePath": "staticwebassets\\Images\\ao1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\wwwroot\\Images\\aogiunhiet.jpg",
+      "PackagePath": "staticwebassets\\Images\\aogiunhiet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\wwwroot\\Images\\bong.jpg",
+      "PackagePath": "staticwebassets\\Images\\bong.jpg"
+    },
+    {
+      "Id": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\wwwroot\\Images\\gangtay.jpg",
+      "PackagePath": "staticwebassets\\Images\\gangtay.jpg"
+    },
+    {
+      "Id": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\wwwroot\\Images\\giay1.jpg",
+      "PackagePath": "staticwebassets\\Images\\giay1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\wwwroot\\Images\\giaydabong.jpg",
+      "PackagePath": "staticwebassets\\Images\\giaydabong.jpg"
+    },
+    {
+      "Id": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\wwwroot\\Images\\quan1.jpg",
+      "PackagePath": "staticwebassets\\Images\\quan1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\wwwroot\\Images\\quandai.jpg",
+      "PackagePath": "staticwebassets\\Images\\quandai.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.QuanLiKhoApi_final.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.QuanLiKhoApi_final.props",
+      "PackagePath": "build\\QuanLiKhoApi_final.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.QuanLiKhoApi_final.props",
+      "PackagePath": "buildMultiTargeting\\QuanLiKhoApi_final.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.QuanLiKhoApi_final.props",
+      "PackagePath": "buildTransitive\\QuanLiKhoApi_final.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

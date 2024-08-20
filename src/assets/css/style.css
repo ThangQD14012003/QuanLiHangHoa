@@ -1,0 +1,47 @@
+nav a {
+    display: inline-block;
+    padding: 0 15px 0 0 ;
+}
+.btn-handle-edit {
+    background-color: rgb(49, 53, 255);
+}
+.btn-handle-delete {
+    background-color: #ff0000;
+}
+.btn-handle {
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 2px;
+    color: white;
+    border: none; 
+    font-size: 15px;
+}
+.btn-search {
+    cursor: pointer;
+    border: 1px solid gray;
+    border-radius: 8px;
+    outline: none;
+}
+.btn-search:hover {
+    background-color: rgb(204, 204, 204);
+    transition: 0.4s;
+}
+.input-search {
+    border-radius: 8px;
+    border: 1px solid gray;
+    outline: none;
+}
+button{
+    margin-right: 10px; 
+}
+.back {
+    cursor: pointer;
+    outline: none;
+    border: 1px solid grey;
+    border-radius: 8px;
+    margin-right: 4px;
+}
+.back:hover {
+    background-color: rgb(204, 204, 204);
+    transition: 0.4s;
+}

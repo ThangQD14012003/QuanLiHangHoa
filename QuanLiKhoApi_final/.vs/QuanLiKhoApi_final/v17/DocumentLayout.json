@@ -1,0 +1,737 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\controllers\\mycustomercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\controllers\\mycustomercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\services\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\services\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\services\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\services\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\datas\\saledatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\datas\\saledatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\datas\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\datas\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\models\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\models\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\models\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\models\\signinmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\controllers\\acountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\controllers\\acountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\controllers\\myproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\controllers\\myproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\helper\\aplicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\helper\\aplicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\helper\\appicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\helper\\appicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\services\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\services\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\datas\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\datas\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\datas\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\datas\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\services\\iacountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\services\\iacountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\services\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\services\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\datas\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\datas\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\services\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\services\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\migrations\\20240527134359_addtbpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\migrations\\20240527134359_addtbpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\migrations\\20240527134126_addtbcus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\migrations\\20240527134126_addtbcus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\services\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\services\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\services\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\services\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\quanlikhoapi_final.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\quanlikhoapi_final.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\migrations\\20240527134444_addtbpro1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\migrations\\20240527134444_addtbpro1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\migrations\\saledatacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\migrations\\saledatacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\migrations\\20240527135426_addtbuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\migrations\\20240527135426_addtbuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\quanlikhoapi_final.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\quanlikhoapi_final.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\wwwroot\\images\\giaydabong.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\wwwroot\\images\\giaydabong.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\wwwroot\\images\\ao1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\wwwroot\\images\\ao1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\wwwroot\\images\\giay1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\wwwroot\\images\\giay1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\wwwroot\\images\\aogiunhiet.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\wwwroot\\images\\aogiunhiet.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\quanlikhoapi_final.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\quanlikhoapi_final.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\QuangThang\\Documents\\QuanLiKho_vue_csharp\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Migrations\\20240527133937_addtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\QuangThang\\Documents\\QuanLiKho_vue_csharp\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Migrations\\20240527132925_addTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\QuangThang\\Documents\\QuanLiKho_vue_csharp\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Migrations\\20240527132521_addtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|c:\\users\\quangthang\\onedrive\\documents\\o2tech\\quanlikho_vue_csharp\\quanlikho\\quanlikhoapi_final\\quanlikhoapi_final\\migrations\\20240527135213_addtborder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F298161-AC24-4CCF-BD55-6E0ACBB6981A}|QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj|solutionrelative:quanlikhoapi_final\\migrations\\20240527135213_addtborder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignInModel.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Models\\SignInModel.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Models\\SignInModel.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Models\\SignInModel.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Models\\SignInModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:08:53.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignUpModel.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Models\\SignUpModel.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Models\\SignUpModel.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Models\\SignUpModel.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Models\\SignUpModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:08:52.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Datas\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Datas\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Datas\\ApplicationUser.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Datas\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:52:47.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Program.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Program.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:21:13.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyProductController.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Controllers\\MyProductController.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Controllers\\MyProductController.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Controllers\\MyProductController.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Controllers\\MyProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:59:12.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:59:13.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyCustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Controllers\\MyCustomerController.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Controllers\\MyCustomerController.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Controllers\\MyCustomerController.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Controllers\\MyCustomerController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:59:09.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AcountController.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Controllers\\AcountController.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Controllers\\AcountController.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Controllers\\AcountController.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Controllers\\AcountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:58:54.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Services\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Services\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Services\\CustomerRepository.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Services\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T03:12:57.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Services\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Services\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Services\\ICustomerRepository.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Services\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:41:09.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaleDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Datas\\SaleDataContext.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Datas\\SaleDataContext.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Datas\\SaleDataContext.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Datas\\SaleDataContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:28:16.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AplicationMapper.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Helper\\AplicationMapper.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Helper\\AplicationMapper.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Helper\\AplicationMapper.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Helper\\AplicationMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:20:37.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppicationRole.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Helper\\AppicationRole.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Helper\\AppicationRole.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Helper\\AppicationRole.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Helper\\AppicationRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T03:20:23.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\WeatherForecast.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:13:00.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\appsettings.json",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\appsettings.json",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\appsettings.json",
+              "RelativeToolTip": "QuanLiKhoApi_final\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T13:01:09.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Services\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Services\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Services\\AccountRepository.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Services\\AccountRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T03:12:58.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Datas\\Customer.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Datas\\Customer.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Datas\\Customer.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Datas\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:28:20.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Datas\\Order.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Datas\\Order.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Datas\\Order.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Datas\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:46:34.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Services\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Services\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Services\\ProductRepository.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Services\\ProductRepository.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAcwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:16:56.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Properties\\launchSettings.json",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T13:57:53.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAcountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Services\\IAcountRepository.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Services\\IAcountRepository.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Services\\IAcountRepository.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Services\\IAcountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T03:00:53.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Services\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Services\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Services\\IProductRepository.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Services\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:15:48.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Datas\\Product.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Datas\\Product.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Datas\\Product.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Datas\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:43:40.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Models\\OrderModel.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Models\\OrderModel.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Models\\OrderModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T14:00:46.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomerModel.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Models\\CustomerModel.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Models\\CustomerModel.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Models\\CustomerModel.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Models\\CustomerModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T03:00:41.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240527134359_addtbPro.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Migrations\\20240527134359_addtbPro.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Migrations\\20240527134359_addtbPro.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Migrations\\20240527134359_addtbPro.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Migrations\\20240527134359_addtbPro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:43:59.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240527134126_addtbCus.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Migrations\\20240527134126_addtbCus.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Migrations\\20240527134126_addtbCus.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Migrations\\20240527134126_addtbCus.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Migrations\\20240527134126_addtbCus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:41:26.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Services\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Services\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Services\\OrderRepository.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Services\\OrderRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:41:07.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Services\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Services\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Services\\IOrderRepository.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Services\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:41:08.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Models\\ProductModel.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Models\\ProductModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:15:42.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "QuanLiKhoApi_final.http",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\QuanLiKhoApi_final.http",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\QuanLiKhoApi_final.http",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\QuanLiKhoApi_final.http",
+              "RelativeToolTip": "QuanLiKhoApi_final\\QuanLiKhoApi_final.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-27T13:05:10.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\appsettings.Development.json",
+              "RelativeToolTip": "QuanLiKhoApi_final\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-28T07:34:44.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240527134444_addtbPro1.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Migrations\\20240527134444_addtbPro1.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Migrations\\20240527134444_addtbPro1.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Migrations\\20240527134444_addtbPro1.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Migrations\\20240527134444_addtbPro1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:44:44.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SaleDataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Migrations\\SaleDataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Migrations\\SaleDataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Migrations\\SaleDataContextModelSnapshot.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Migrations\\SaleDataContextModelSnapshot.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:37:15.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240527135426_addtbuser.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Migrations\\20240527135426_addtbuser.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Migrations\\20240527135426_addtbuser.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Migrations\\20240527135426_addtbuser.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Migrations\\20240527135426_addtbuser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:54:26.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "QuanLiKhoApi_final",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj",
+              "RelativeToolTip": "QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T13:28:49.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "giaydabong.jpg - Bitmap [1920x1100, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\wwwroot\\Images\\giaydabong.jpg",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\wwwroot\\Images\\giaydabong.jpg",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\wwwroot\\Images\\giaydabong.jpg - Bitmap [1920x1100, 24 bit, JPG]",
+              "RelativeToolTip": "QuanLiKhoApi_final\\wwwroot\\Images\\giaydabong.jpg - Bitmap [1920x1100, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-23T16:04:12.143Z",
+              "EditorCaption": " - Bitmap [1920x1100, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ao1.jpg - Bitmap [1293x888, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\wwwroot\\Images\\ao1.jpg",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\wwwroot\\Images\\ao1.jpg",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\wwwroot\\Images\\ao1.jpg - Bitmap [1293x888, 24 bit, JPG]",
+              "RelativeToolTip": "QuanLiKhoApi_final\\wwwroot\\Images\\ao1.jpg - Bitmap [1293x888, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-28T03:00:14.35Z",
+              "EditorCaption": " - Bitmap [1293x888, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "giay1.jpg - Bitmap [1157x637, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\wwwroot\\Images\\giay1.jpg",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\wwwroot\\Images\\giay1.jpg",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\wwwroot\\Images\\giay1.jpg - Bitmap [1157x637, 24 bit, JPG]",
+              "RelativeToolTip": "QuanLiKhoApi_final\\wwwroot\\Images\\giay1.jpg - Bitmap [1157x637, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-28T03:00:00.193Z",
+              "EditorCaption": " - Bitmap [1157x637, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "aogiunhiet.jpg - Bitmap [700x700, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\wwwroot\\Images\\aogiunhiet.jpg",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\wwwroot\\Images\\aogiunhiet.jpg",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\wwwroot\\Images\\aogiunhiet.jpg - Bitmap [700x700, 24 bit, JPG]",
+              "RelativeToolTip": "QuanLiKhoApi_final\\wwwroot\\Images\\aogiunhiet.jpg - Bitmap [700x700, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-28T03:00:13.173Z",
+              "EditorCaption": " - Bitmap [700x700, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "QuanLiKhoApi_final.csproj",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj",
+              "RelativeToolTip": "QuanLiKhoApi_final\\QuanLiKhoApi_final.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T12:56:27.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20240527135213_addtbOrder.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Migrations\\20240527135213_addtbOrder.cs",
+              "RelativeDocumentMoniker": "QuanLiKhoApi_final\\Migrations\\20240527135213_addtbOrder.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\OneDrive\\Documents\\O2TECH\\QuanLiKho_vue_csharp\\quanlikho\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Migrations\\20240527135213_addtbOrder.cs",
+              "RelativeToolTip": "QuanLiKhoApi_final\\Migrations\\20240527135213_addtbOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:52:13.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20240527133937_addtable.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\Documents\\QuanLiKho_vue_csharp\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Migrations\\20240527133937_addtable.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Documents\\QuanLiKho_vue_csharp\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Migrations\\20240527133937_addtable.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\Documents\\QuanLiKho_vue_csharp\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Migrations\\20240527133937_addtable.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Documents\\QuanLiKho_vue_csharp\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Migrations\\20240527133937_addtable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:39:37.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20240527132925_addTable.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\Documents\\QuanLiKho_vue_csharp\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Migrations\\20240527132925_addTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Documents\\QuanLiKho_vue_csharp\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Migrations\\20240527132925_addTable.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\Documents\\QuanLiKho_vue_csharp\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Migrations\\20240527132925_addTable.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Documents\\QuanLiKho_vue_csharp\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Migrations\\20240527132925_addTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:29:25.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20240527132521_addtable.cs",
+              "DocumentMoniker": "C:\\Users\\QuangThang\\Documents\\QuanLiKho_vue_csharp\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Migrations\\20240527132521_addtable.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Documents\\QuanLiKho_vue_csharp\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Migrations\\20240527132521_addtable.cs",
+              "ToolTip": "C:\\Users\\QuangThang\\Documents\\QuanLiKho_vue_csharp\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Migrations\\20240527132521_addtable.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Documents\\QuanLiKho_vue_csharp\\QuanLiKhoApi_final\\QuanLiKhoApi_final\\Migrations\\20240527132521_addtable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:25:21.274Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
